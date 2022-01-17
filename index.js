@@ -4,3 +4,6 @@ console.log(1234)
 function squre(n) {
   return n * n
 }
+function add(a,b) {
+  console.log(a+b)
+}
